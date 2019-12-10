@@ -130,7 +130,7 @@ Compared to DNase-seq, FAIRE-seq, and MNase-seq ATAC-seq has two common advantag
 I. It can be performed with significantly fewer cells. Only requires about 50,000 cells compared to the millions needed by other methods. 
 II. Library prep is faster and less step intensive compared to previous methods [[14]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6391789/).
 
-However, ATAC-seq is nor the best technology to use in all cases. When looking at nucleosome distribution MNase-seq strategy of cutting up the DNA between nucleosomes produces strong peaks for nucleosomes. Looking at the gaps between ATAC-seq’s peaks to determine nucleosome location is less effective because Tn5 struggles to cut in between the small gaps between nucleosomes.
+However, ATAC-seq is not the best technology to use in all cases. When looking at nucleosome distribution MNase-seq strategy of cutting up the DNA between nucleosomes produces strong peaks for nucleosomes. Looking at the gaps between ATAC-seq’s peaks to determine nucleosome location is less effective because Tn5 struggles to cut in between the small gaps between nucleosomes.
 
 ATAC-seq and DNase-seq are the only tools that can be used to find both transcription factor binding sites and chromatin accessibility. ChIP-seq shows binding site locations but not accessibility. FAIRE-seq shows accessibility, but not the binding site [[15]](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/1756-8935-7-33).
 
